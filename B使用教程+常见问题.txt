@@ -1,0 +1,18 @@
+【新手快速入门】
+ComfyUI官方示例：https://comfyanonymous.github.io/ComfyUI_examples/
+基础工作流示范：https://github.com/cubiq/ComfyUI_Workflows 
+基础工作流示范：https://github.com/wyrde/wyrde-comfyui-workflows
+工作流分享网站：https://comfyworkflows.com/
+【模型分享】
+常用模型分享下载链接：https://pan.quark.cn/s/32f374eef667
+2023年4月模型分享：https://www.bilibili.com/video/BV1em4y1z7Dg
+2023年5-6月模型分享：https://www.bilibili.com/video/BV1Nk4y1T7ft
+2023年7-9月模型分享：https://www.bilibili.com/video/BV1v8411y7uR
+2024年1月模型分享：https://www.bilibili.com/video/BV14a4y127DA
+
+【常用网站】
+标签超市(解析组合): https://tags.novelai.dev/
+原图提取标签: https://spell.novelai.dev/
+
+【问题速查】
+遇到问题请前往启动器内 - 疑难解答 进行扫描
